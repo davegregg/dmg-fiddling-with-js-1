@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.output {
+  width: 250px;
+  height: 250px;
+  border: 2px dotted black;
+  text-align: center;
+}
